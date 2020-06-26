@@ -1,5 +1,6 @@
 <template>
-	<div>登录页面</div>
+	<Header title=""><router-link tag="i" to="/header" class="iconfont icon-right">登录页面</router-link></Header>
+	
 	
 </template>
 
@@ -9,5 +10,8 @@
 	// }
 </script>
    
-<style>
+<style scoped>
+	div{
+		background-color: red;
+	}
 </style>
