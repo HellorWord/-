@@ -1,9 +1,8 @@
 <template>
-	<h1>头部</h1>
+	<h1>头部 优秀</h1>
 </template>
 
 <script>
-</script>
-
+</script>  
 <style>
 </style>
